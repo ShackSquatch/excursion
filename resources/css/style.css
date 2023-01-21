@@ -4,6 +4,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+footer {
+    text-align: right;
+    color: grey;
+}
+
 .header {
     font-weight: normal;
     font-size: 50px;
